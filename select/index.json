@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "罠",
+  "base_artist": "XinU",
+  "createdAt": "2026-02-15T01:21:11.869760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "罠",
+      "artist": "THE BACK HORN",
+      "has_synced": false,
+      "path": "select/01_罠_THE_BACK_HORN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wana [罠]",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/02_Wana_[罠]_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "罠",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/03_罠_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "罠",
+      "artist": "The Back Horn",
+      "has_synced": true,
+      "path": "select/04_罠_The_Back_Horn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "罠",
+      "artist": "XinU",
+      "has_synced": true,
+      "path": "select/05_罠_XinU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "罠",
+      "artist": "THE YELLOW MONKEY",
+      "has_synced": true,
+      "path": "select/06_罠_THE_YELLOW_MONKEY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I WANNA 罠?",
+      "artist": "Mizuki Ohira",
+      "has_synced": true,
+      "path": "select/07_I_WANNA_罠_Mizuki_Ohira.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "罠",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/08_罠_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "罠",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/09_罠_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I WANNA 罠?",
+      "artist": "Mizuki, Ohira",
+      "has_synced": true,
+      "path": "select/10_I_WANNA_罠_Mizuki,_Ohira.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "罠",
+      "artist": "XinU",
+      "has_synced": false,
+      "path": "select/pl_01_罠_XinU.txt"
+    }
+  ]
+}
